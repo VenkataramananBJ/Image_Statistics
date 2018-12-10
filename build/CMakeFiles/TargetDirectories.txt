@@ -1,0 +1,3 @@
+/home/nvidia/Venkat/coding/build/CMakeFiles/rebuild_cache.dir
+/home/nvidia/Venkat/coding/build/CMakeFiles/Image_Statistics.dir
+/home/nvidia/Venkat/coding/build/CMakeFiles/edit_cache.dir
